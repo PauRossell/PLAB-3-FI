@@ -1,8 +1,18 @@
+//int main(){ 
+//    int i,j; 
+//   i = 1; 
+//    j = 2; 
+//    i++; 
+//    j += i; 
+//    return 0; 
+//} 
+
+
 int main(){ 
-int i,j; 
-i = 1; 
-j = 2; 
-i++; 
-j += i; 
-return 0; 
+    short i,j; 
+    i = 1; 
+    j = 2; 
+    i++; 
+    j += i;
+    return 0; 
 } 
