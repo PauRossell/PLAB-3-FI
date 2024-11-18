@@ -33,6 +33,6 @@
 int main(){
     int x = 3;
     char y = 'a';
-    int z;
+    char z;
     z = x * y;
 }
