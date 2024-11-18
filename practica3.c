@@ -30,9 +30,25 @@
 //}
 
 //4.
+//int main(){
+//    int x = 3;
+//    char y = 'a';
+//    int z;
+//    z = x * y;
+//}
+
+//int main(){
+//    int x = 3;
+//    char y = 'a';
+//    char z;
+//    z = x * y;
+//}
+
+//5.
 int main(){
-    int x = 3;
-    char y = 'a';
-    char z;
-    z = x * y;
+    char a[3];
+    a[0] = 1;
+    a[1] = 2;
+    a[2] = 3;
+    return 0;
 }
